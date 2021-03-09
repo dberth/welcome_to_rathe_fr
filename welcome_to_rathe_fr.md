@@ -214,3 +214,35 @@ Autrefois, une petite bourgade, la sagesse de Sol a guidé la ville tout au long
 Au-dela de la cité sont les ténèbres. Le crime, la corruption, l'avarice et bien d'autres maux. Le pire de tout, une jungle de montres et de bêtes à l'ouest profanent le pays de leur existence putride. Il semble que où que l'on regarde il n'y ait que corruption et désolation ; une tâche sombre sur les coeurs des hommes qui s'étend comme un poison.
 
 Mais il y a encore de l'espoir. De l'espoir dans les solaniens. De l'espoir dans un futur de rédemption et de salut.
+
+[Page 13]
+
+# La cité dorée
+
+Au centre de Rathe, se trouve une magnifique cité, dominant les champs dorés qui l'entourent. Ses murs brillants reflètent la lumière du soleil, étincellant brillamment, tandis que des chevaliers vêtus d'argentet d'or patrouillent ses fontières. Dans les champs au delà des murs, des villages se dissimulent dans les plis des plaines fertiles, ensécurité sous l'oeuil vigilant de leur puissant protecteur. C'est le royaume de Solana, un phare d'espoir parmi les ténèbre de ce monde.
+
+Ceux qui passent par ses grandes portes découvrent une ville extraordinaire, construite pour illustrer la divine majestée de Sol. D'un mur à l'autre, ses rue de pierre sont bordées de maisons joyeuses au toit vouté, des bannières colorées se balancentau rythme d'une légère brise. Au coeur de la cité, une massive série de tours s'élève au dessus des rue en contre-bas-le magnifique Solarium, le joyau de Solana.
+
+L'élégance et la symétrie de la ville sont apparents à tout ceux qui y entre. Au delà des huit portes monumentales se trouve huit secteurs de la ville avec huit grands axes menants, au travers de la ville, jusqu'à l'aphithéatre en son coeur. Elle a été construite selon la volonté divne de Sol, imprégnée de protection magique pour protéger tout ceux qui y habitent.
+
+## La bibliothèque de l'illumination
+Une bibliothèque publique gérée par les membre de la Lumière de Sol.
+
+## Le Solarium
+Le sanctueur intérieur, résidence de la Lumière de Sol.
+
+## L'Amphitéâtre
+Un espace dédié aux cérémonies, aux événements publiques et aux proclamations.
+
+## Les Silvaris
+Un série de manifique jardins publiques entourrant le sanctuaire intérieur de Solana.
+
+## Les Plazas
+Connectent les secteurs extérieurs de la ville, un espace pour ce rassembler et écouter les nouvelles.
+
+## Les Grandes Portes
+Ces huits avenues mènent, à travers la ville, au Solarium.
+
+## Les champs dorés
+Au-delà des murs extérieurs se trouvent les grands champs dorés, de nombreuses villes et villages sous la protection et l'influence de Solana.
+
