@@ -6,7 +6,7 @@ Les jeux de cartes à collectionner sont un moyen incroyable pour rassembler les
 
 ## Remerciements
 
-Quand nous nous sommes embarqués pour ce voyage, au tout début, tout ce que nous voulions était de faire un TCG que nous serions fière d'appeler le nôtre.
+Quand nous nous sommes embarqués pour ce voyage, au tout début, tout ce que nous voulions était de faire un TCG que nous serions fiers d'appeler le nôtre.
 
 De nombreux obstacles et challenges ont pavés notre chemin, mais nous les avons surmontés, avec l'aide de nombreuses personnes.
 
