@@ -177,3 +177,28 @@ Et bien d'autres...
 
 Que vous tiriez votre puissance de la magie et de sorts, que vous maniez tout type d'arme ou que vous utilisiez la puissance intérieure, la finalité est la même : dans un monde affligé parles conflits, vous devez combattre pour une chance de déterminer votre destin. Succomberez-vous aux machinations des autres ou choisirez-vous votre propre chemin ? Remassez votre épée et préparez-vous pour la bataille ; car où que vous fuyiez la guerre vous trouvera.
 
+[Page 11]
+
+# Solana
+
+## Le royaume de l'illumination
+
+Les légendes parlent de pélerins bénis venus d'un pays lointain, attirés à Rathe par la volonté de Sol. Sur un sol sacré, ils construisirent Solana, a royaume brillant qui devrait se dresser éternellement contre l'ombre.
+
+La ville se dresse depuis des millénaires, propspérant sous les conseils de pieux érudis and de sorciers de la lumière.
+Chevaliers et templiers pattrouillent ses murs, la défendant contre ceux qui voudraient porter atteinte à son but divin.
+
+Un jour, la lumière de Sol rayonnera sur la terre et apportera sa bénédiction à toute l'humanité.
+
+## Etre un solanien
+
+Le peuple de Solana honore Sole dans kes kes aspects de leur vie, depuis le jeunes jusqu'au viellard, du fermier à l'érudit, depuis ceux qui vivent dans ses murs jusqu'à ceux qui vivent au-delà ; tous se réjouissent sous l'infinie sagesse et gloire de Sol.
+
+Les solaniens sont très fier de respecter la volonté de Sol, croyant qu'ils sont les émissaires divins de Sol. Chaque solanien doit agir avec courage et honneur, commme ils sont l'incarnation vivante de Sol.
+
+Portant la gloire de Sol dans leur coeurs, ils cherchent à propager les enseignements de la lumière au reste de l'humanité et  à accueillir toute personne recherchant la bénédiction de Sol.
+
+Tous ceux qui embracent pleinement la lumière de Sol sont accuillis par les habitant de Solanana comme l'un des leurs. Ceux qui sont encore sur le chemin de l'illumination recoivent une place dans les villages à l'extrieur de Solana.
+
+Ces colonies ainsi que toute communauté qui voudrait embracer la lumière divine de Sol se voient placer sous la protection de la puissante Solana.
+
