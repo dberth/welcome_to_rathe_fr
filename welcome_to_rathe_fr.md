@@ -92,7 +92,7 @@ monde est en équilibre au bord de la guerre une fois de plus.
 
 ## SOLANA
 
-Au centre de Rathe se trouve Solana, un phare diffusant l'espoir dans
+Au centre de Rathe se trouve Solana, un phare rayonnant l'espoir dans
 un monde au bord du chaos. Depuis des milliers d'années, il a prospéré
 sous les conseils de pieux érudits, recherchant à répendre la gloire
 et les enseignements de Sol dans tout Rathe et à unir l'humanité sous
@@ -202,3 +202,15 @@ Tous ceux qui embracent pleinement la lumière de Sol sont accuillis par les hab
 
 Ces colonies ainsi que toute communauté qui voudrait embracer la lumière divine de Sol se voient placer sous la protection de la puissante Solana.
 
+[Page 12]
+
+## Un royaume rayonnant
+
+Au centre de Rathe se trouve Solana, un phare rayonnant l'espoir dans
+un monde au bord du chaos. Au delà de ses grandes portes, il y a un merveilleuse ville de marbre et de pierres, aimée de la foule des croyants et des justes dont c'est la demeure.
+
+Autrefois, une petite bourgade, la sagesse de Sol a guidé la ville tout au long des âges. Pour la gloire du but divin de Sol. Maintenant un puissant royaume, le plus puissant du continent, ses habitants cherchent à propoager la gloire et les enseignements de Sol dans tout Rathe et à unir l'humanité sous une seule banière.
+
+Au-dela de la cité sont les ténèbres. Le crime, la corruption, l'avarice et bien d'autres maux. Le pire de tout, une jungle de montres et de bêtes à l'ouest profanent le pays de leur existence putride. Il semble que où que l'on regarde il n'y ait que corruption et désolation ; une tâche sombre sur les coeurs des hommes qui s'étend comme un poison.
+
+Mais il y a encore de l'espoir. De l'espoir dans les solaniens. De l'espoir dans un futur de rédemption et de salut.
