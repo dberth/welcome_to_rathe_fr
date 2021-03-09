@@ -176,3 +176,4 @@ Dans un monde affligé par la guerre et les conflits, le peuple de Rathe a déve
 Et bien d'autres...
 
 Que vous tiriez votre puissance de la magie et de sorts, que vous maniez tout type d'arme ou que vous utilisiez la puissance intérieure, la finalité est la même : dans un monde affligé parles conflits, vous devez combattre pour une chance de déterminer votre destin. Succomberez-vous aux machinations des autres ou choisirez-vous votre propre chemin ? Remassez votre épée et préparez-vous pour la bataille ; car où que vous fuyiez la guerre vous trouvera.
+
