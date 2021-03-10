@@ -129,12 +129,12 @@ technologies. Qu'ils soient scientifiques ou inventeurs, marchants ou
 mineurs, Metrix attire tous ceux qui tentent leur chance appâtés par
 la promesse de meilleurs lendemains.
 
-## LES FOSSES
+## LES BAS-FONDS
 
 Dans les profondeurs sous la ville de Metrix, des siècles
 d'exploitation minière ont laissé une série d'énormes cavernes
 souterraines. Des voleurs, des mercernaires, des esclavagistes et des
-contrebadiers se sont installés dans  les sombres cavernes des Fosses,
+contrebadiers se sont installés dans  les sombres cavernes des Bas-fonds,
 fournissant toutes sortes de services immoraux ou illegaux au monde du
 dessus.
 
@@ -246,3 +246,10 @@ Ces huits avenues mènent, à travers la ville, au Solarium.
 ## Les champs dorés
 Au-delà des murs extérieurs se trouvent les grands champs dorés, de nombreuses villes et villages sous la protection et l'influence de Solana.
 
+[Page 15]
+
+## SOLARIUM
+
+Au coeur de la cité se trouve le Solarium, un complexe massif de tours brillantes qui s'élèvent au-dessus des rues de Solana. Construit il y a longtemp dans les matériaux les plus noble, il se dresse éternel, un rappel attemporel de la gloire de Sol. Tout de blanc et d'or, il reste visible de tous les coins de la ville, et peut être vu depuis bien au-delà des Champs Dorés. Toutes les rues mênent au Solarium et à l'énorme amphitéâtre en son coeur ; un espace de rassemblement pour tous les Solaniens pour écouter la parole de Sol. Il y en même qui viennent de pays lointains dans l'espoir d'admirer la majesté du Solarium.
+
+Entre le Solarium et le reste de la ville, une vaste étendue de jardins entoure les tours rayonnantes en une couverture au couleurs vives. Les habitants de Solana se rendent fréquemment dans les jardins, marchant parmi les arbres et profitant de nombreuses plantes qui poussent dans ses parterres.
